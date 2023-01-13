@@ -91,7 +91,7 @@ namespace Algoritmiek3
                 Console.WriteLine("Total Weight: " + totalWeight);
                 Console.WriteLine("Right Weight: " + rightWeight);
                 Console.WriteLine("Left Weight: " + leftWeight);
-                Console.WriteLine("Left Weight: " + ((totalWeight * 0.20) >= Math.Abs(leftWeight - rightWeight)));
+                Console.WriteLine("Balanced: " + ((totalWeight * 0.20) >= Math.Abs(leftWeight - rightWeight)));
             }
             SendConsole();  
             ship.display();
