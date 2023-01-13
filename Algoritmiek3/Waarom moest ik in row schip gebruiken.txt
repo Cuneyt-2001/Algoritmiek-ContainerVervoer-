@@ -1,0 +1,6 @@
+﻿Ik heb 3 versie gemaakt voor algoritmiek opdracht
+Deze versie is een versie die alles werkt.
+
+-Bij eerste versie doet alle eisen het wel. Maar ik moet in row constructor een schip object te gebruiken anders kan ik het schip niet in balans te houden. We hebben er een gesprek uitgevoerd over. Jullie zeiden dat als ik mijn stacks balans kan houden dan wordt hele schip in balans. Maar dat werkt in werkelijkheid niet zo.(Versie 2) Als ik gewoon mijn stacks kijk voor een rij. Dan kan ik gewoon midden kant stapelen. Ik heb deze versie ook gedaan. Ik zal dat tijdens de presentatie bewijzen.
+
+-Bij derde versie hou ik aan de regels dus geef ik schip niet als paramater mee. Dus bij derde versie voldoet aan de eisen maar balans doet het niet. Die zal ik ook laten zien

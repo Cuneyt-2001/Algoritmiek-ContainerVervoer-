@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmiek3", "Algoritmiek3\Algoritmiek3.csproj", "{ACE606EC-3AA5-45E2-9A66-45FA0B4EB81A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{C88641B2-AD1C-4C5A-9AA4-761BF626B001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE606EC-3AA5-45E2-9A66-45FA0B4EB81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE606EC-3AA5-45E2-9A66-45FA0B4EB81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE606EC-3AA5-45E2-9A66-45FA0B4EB81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE606EC-3AA5-45E2-9A66-45FA0B4EB81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88641B2-AD1C-4C5A-9AA4-761BF626B001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88641B2-AD1C-4C5A-9AA4-761BF626B001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88641B2-AD1C-4C5A-9AA4-761BF626B001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88641B2-AD1C-4C5A-9AA4-761BF626B001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4076443-BDAD-46CB-9F2B-F8E0DD955F4B}
+	EndGlobalSection
+EndGlobal
